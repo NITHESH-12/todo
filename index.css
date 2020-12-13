@@ -1,0 +1,19 @@
+#sec{
+	position: absolute;
+	/*height: 100px;*/
+	top: -220px;
+	right:-140px;
+}
+#fir{
+	position: relative;
+	
+}
+/*button:hover{
+	background-color: #ec524b;
+}*/
+#show:hover{
+	background-color: red;
+}
+h1{
+	color: red;
+}
